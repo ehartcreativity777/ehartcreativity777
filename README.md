@@ -1,4 +1,4 @@
-## About me 👋
+## About me 👋🏽
 
 - 🌱 I’m currently learning data analytics and Python.
 - 💬 Ask me what I have learned
